@@ -1,10 +1,10 @@
-JavaScript Event Handling & Interactive Elements Website
+JAVASCRIPT EVENT HANDLING AND INTERACTIVE WEBSITE
 
-Overview
+OVERVIEW
 
 This project is a dynamic, interactive webpage built to demonstrate JavaScript event handling, interactive components, and form validation. It includes a magic button with multiple interactions, an image gallery, tabbed content, and a validated form, all styled with modern CSS for a polished user experience.
 
-Features
+FEATURES
 
 
 
